@@ -1,2 +1,2 @@
 # kuromizu2-demo
-Pythons based blockchain Smart Contracts using Solidity
+Python-based Blockchain Smart Contracts using Solidity
